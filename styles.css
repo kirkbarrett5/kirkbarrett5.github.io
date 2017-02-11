@@ -1,6 +1,7 @@
 @font-face {
-	font-family: 'Montserrat Bold***';
+	font-family: 'Montserrat';
 	src: url('https://use.edgefonts.net/montserrat-bold:n4:default;pt-serif:n4:default.js');
+	font-weight: bold;
 }
 
 
