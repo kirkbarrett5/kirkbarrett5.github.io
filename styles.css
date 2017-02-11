@@ -1,3 +1,10 @@
+@font-face {
+	font-family: 'Montserrat Bold***';
+	src: url('https://use.edgefonts.net/montserrat-bold:n4:default;pt-serif:n4:default.js');
+}
+
+
+
 @charset "UTF-8";
 @import url("Montserrat_Light___/stylesheet.css");
 /* CSS Document */
